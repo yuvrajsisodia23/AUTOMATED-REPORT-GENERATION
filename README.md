@@ -119,4 +119,4 @@ Style template integration using ReportLab canvas
 
 
 # Output
-
+![Image](https://github.com/user-attachments/assets/8b14b751-94ed-4948-96e4-9922b00fe31a)
